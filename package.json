@@ -1,0 +1,25 @@
+{
+  "name": "babel-plugin-remove-data-test-id-attribute",
+  "version": "1.0.0",
+  "description": "removes data-test-id attributes from jsx html elements. To be used for production builds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukeshsoni/babel-plugin-remove-data-test-id-attribute.git"
+  },
+  "keywords": [
+    "babel-plugin",
+    "babel",
+    "transformation",
+    "jsx"
+  ],
+  "author": "Mukesh Soni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mukeshsoni/babel-plugin-remove-data-test-id-attribute/issues"
+  },
+  "homepage": "https://github.com/mukeshsoni/babel-plugin-remove-data-test-id-attribute#readme"
+}
